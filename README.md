@@ -4,14 +4,14 @@
 # Hello new world!!
 
 ### My name is _Wellington Eduardo Castro Portela_  
-I've 20 year old and I'm student of Information system in the **Universidade Federal de Rondonópolis (UFR)**  
+I've 23 year old and I'm student of Information system in the **Universidade Federal de Rondonópolis (UFR)**  
 ___
 
 (PT/BR)🟢🟡
 # Olá mundo novo!!
 
 ### Me chamo _Wellington Eduardo Castro Portela_  
-tenho 20 anos e sou estudante de Sistema de Informação na **Universidade Federal de Rondonópolis (UFR).**
+tenho 23 anos e sou estudante de Sistema de Informação na **Universidade Federal de Rondonópolis (UFR).**
 
 
 
